@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AbbyyTask</string>
+    <string name="error_connection_not_present">нкт соединения</string>
+    <string name="action_settings">Settings</string>
+</resources>
